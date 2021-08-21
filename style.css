@@ -1,0 +1,10 @@
+hr{
+    margin-top: 0 !important;
+    width:53%;
+    text-align:left;
+    margin-left:0;
+}
+.one{
+    border:none;
+    border-top: 3px solid black;
+}
